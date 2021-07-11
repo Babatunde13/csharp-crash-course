@@ -1,0 +1,16 @@
+/home/sindara/Desktop/c#/oop/bin/Debug/net5.0/oop
+/home/sindara/Desktop/c#/oop/bin/Debug/net5.0/oop.deps.json
+/home/sindara/Desktop/c#/oop/bin/Debug/net5.0/oop.runtimeconfig.json
+/home/sindara/Desktop/c#/oop/bin/Debug/net5.0/oop.runtimeconfig.dev.json
+/home/sindara/Desktop/c#/oop/bin/Debug/net5.0/oop.dll
+/home/sindara/Desktop/c#/oop/bin/Debug/net5.0/ref/oop.dll
+/home/sindara/Desktop/c#/oop/bin/Debug/net5.0/oop.pdb
+/home/sindara/Desktop/c#/oop/obj/Debug/net5.0/oop.csproj.AssemblyReference.cache
+/home/sindara/Desktop/c#/oop/obj/Debug/net5.0/oop.GeneratedMSBuildEditorConfig.editorconfig
+/home/sindara/Desktop/c#/oop/obj/Debug/net5.0/oop.AssemblyInfoInputs.cache
+/home/sindara/Desktop/c#/oop/obj/Debug/net5.0/oop.AssemblyInfo.cs
+/home/sindara/Desktop/c#/oop/obj/Debug/net5.0/oop.csproj.CoreCompileInputs.cache
+/home/sindara/Desktop/c#/oop/obj/Debug/net5.0/oop.dll
+/home/sindara/Desktop/c#/oop/obj/Debug/net5.0/ref/oop.dll
+/home/sindara/Desktop/c#/oop/obj/Debug/net5.0/oop.pdb
+/home/sindara/Desktop/c#/oop/obj/Debug/net5.0/oop.genruntimeconfig.cache
