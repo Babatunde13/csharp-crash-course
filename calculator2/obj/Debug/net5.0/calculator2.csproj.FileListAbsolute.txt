@@ -1,0 +1,16 @@
+/home/sindara/Desktop/c#/calculator2/obj/Debug/net5.0/calculator2.csproj.AssemblyReference.cache
+/home/sindara/Desktop/c#/calculator2/obj/Debug/net5.0/calculator2.GeneratedMSBuildEditorConfig.editorconfig
+/home/sindara/Desktop/c#/calculator2/obj/Debug/net5.0/calculator2.AssemblyInfoInputs.cache
+/home/sindara/Desktop/c#/calculator2/obj/Debug/net5.0/calculator2.AssemblyInfo.cs
+/home/sindara/Desktop/c#/calculator2/obj/Debug/net5.0/calculator2.csproj.CoreCompileInputs.cache
+/home/sindara/Desktop/c#/calculator2/bin/Debug/net5.0/calculator2
+/home/sindara/Desktop/c#/calculator2/bin/Debug/net5.0/calculator2.deps.json
+/home/sindara/Desktop/c#/calculator2/bin/Debug/net5.0/calculator2.runtimeconfig.json
+/home/sindara/Desktop/c#/calculator2/bin/Debug/net5.0/calculator2.runtimeconfig.dev.json
+/home/sindara/Desktop/c#/calculator2/bin/Debug/net5.0/calculator2.dll
+/home/sindara/Desktop/c#/calculator2/bin/Debug/net5.0/ref/calculator2.dll
+/home/sindara/Desktop/c#/calculator2/bin/Debug/net5.0/calculator2.pdb
+/home/sindara/Desktop/c#/calculator2/obj/Debug/net5.0/calculator2.dll
+/home/sindara/Desktop/c#/calculator2/obj/Debug/net5.0/ref/calculator2.dll
+/home/sindara/Desktop/c#/calculator2/obj/Debug/net5.0/calculator2.pdb
+/home/sindara/Desktop/c#/calculator2/obj/Debug/net5.0/calculator2.genruntimeconfig.cache
