@@ -1,0 +1,16 @@
+/home/sindara/Desktop/c#/lesson3/bin/Debug/net5.0/lesson3
+/home/sindara/Desktop/c#/lesson3/bin/Debug/net5.0/lesson3.deps.json
+/home/sindara/Desktop/c#/lesson3/bin/Debug/net5.0/lesson3.runtimeconfig.json
+/home/sindara/Desktop/c#/lesson3/bin/Debug/net5.0/lesson3.runtimeconfig.dev.json
+/home/sindara/Desktop/c#/lesson3/bin/Debug/net5.0/lesson3.dll
+/home/sindara/Desktop/c#/lesson3/bin/Debug/net5.0/ref/lesson3.dll
+/home/sindara/Desktop/c#/lesson3/bin/Debug/net5.0/lesson3.pdb
+/home/sindara/Desktop/c#/lesson3/obj/Debug/net5.0/lesson3.csproj.AssemblyReference.cache
+/home/sindara/Desktop/c#/lesson3/obj/Debug/net5.0/lesson3.GeneratedMSBuildEditorConfig.editorconfig
+/home/sindara/Desktop/c#/lesson3/obj/Debug/net5.0/lesson3.AssemblyInfoInputs.cache
+/home/sindara/Desktop/c#/lesson3/obj/Debug/net5.0/lesson3.AssemblyInfo.cs
+/home/sindara/Desktop/c#/lesson3/obj/Debug/net5.0/lesson3.csproj.CoreCompileInputs.cache
+/home/sindara/Desktop/c#/lesson3/obj/Debug/net5.0/lesson3.dll
+/home/sindara/Desktop/c#/lesson3/obj/Debug/net5.0/ref/lesson3.dll
+/home/sindara/Desktop/c#/lesson3/obj/Debug/net5.0/lesson3.pdb
+/home/sindara/Desktop/c#/lesson3/obj/Debug/net5.0/lesson3.genruntimeconfig.cache
