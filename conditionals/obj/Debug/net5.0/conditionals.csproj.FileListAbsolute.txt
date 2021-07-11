@@ -1,0 +1,16 @@
+/home/sindara/Desktop/c#/conditionals/bin/Debug/net5.0/conditionals
+/home/sindara/Desktop/c#/conditionals/bin/Debug/net5.0/conditionals.deps.json
+/home/sindara/Desktop/c#/conditionals/bin/Debug/net5.0/conditionals.runtimeconfig.json
+/home/sindara/Desktop/c#/conditionals/bin/Debug/net5.0/conditionals.runtimeconfig.dev.json
+/home/sindara/Desktop/c#/conditionals/bin/Debug/net5.0/conditionals.dll
+/home/sindara/Desktop/c#/conditionals/bin/Debug/net5.0/ref/conditionals.dll
+/home/sindara/Desktop/c#/conditionals/bin/Debug/net5.0/conditionals.pdb
+/home/sindara/Desktop/c#/conditionals/obj/Debug/net5.0/conditionals.csproj.AssemblyReference.cache
+/home/sindara/Desktop/c#/conditionals/obj/Debug/net5.0/conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/home/sindara/Desktop/c#/conditionals/obj/Debug/net5.0/conditionals.AssemblyInfoInputs.cache
+/home/sindara/Desktop/c#/conditionals/obj/Debug/net5.0/conditionals.AssemblyInfo.cs
+/home/sindara/Desktop/c#/conditionals/obj/Debug/net5.0/conditionals.csproj.CoreCompileInputs.cache
+/home/sindara/Desktop/c#/conditionals/obj/Debug/net5.0/conditionals.dll
+/home/sindara/Desktop/c#/conditionals/obj/Debug/net5.0/ref/conditionals.dll
+/home/sindara/Desktop/c#/conditionals/obj/Debug/net5.0/conditionals.pdb
+/home/sindara/Desktop/c#/conditionals/obj/Debug/net5.0/conditionals.genruntimeconfig.cache
