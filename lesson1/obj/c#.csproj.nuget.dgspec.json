@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/sindara/Desktop/c#/c#.csproj": {}
+    "/home/sindara/Desktop/c#/lesson1/c#.csproj": {}
   },
   "projects": {
-    "/home/sindara/Desktop/c#/c#.csproj": {
+    "/home/sindara/Desktop/c#/lesson1/c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sindara/Desktop/c#/c#.csproj",
+        "projectUniqueName": "/home/sindara/Desktop/c#/lesson1/c#.csproj",
         "projectName": "c#",
-        "projectPath": "/home/sindara/Desktop/c#/c#.csproj",
+        "projectPath": "/home/sindara/Desktop/c#/lesson1/c#.csproj",
         "packagesPath": "/home/sindara/.nuget/packages/",
-        "outputPath": "/home/sindara/Desktop/c#/obj/",
+        "outputPath": "/home/sindara/Desktop/c#/lesson1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sindara/.nuget/NuGet/NuGet.Config"
