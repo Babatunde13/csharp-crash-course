@@ -1,0 +1,16 @@
+/home/sindara/Desktop/c#/bin/Debug/net5.0/c#
+/home/sindara/Desktop/c#/bin/Debug/net5.0/c#.deps.json
+/home/sindara/Desktop/c#/bin/Debug/net5.0/c#.runtimeconfig.json
+/home/sindara/Desktop/c#/bin/Debug/net5.0/c#.runtimeconfig.dev.json
+/home/sindara/Desktop/c#/bin/Debug/net5.0/c#.dll
+/home/sindara/Desktop/c#/bin/Debug/net5.0/ref/c#.dll
+/home/sindara/Desktop/c#/bin/Debug/net5.0/c#.pdb
+/home/sindara/Desktop/c#/obj/Debug/net5.0/c#.csproj.AssemblyReference.cache
+/home/sindara/Desktop/c#/obj/Debug/net5.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/sindara/Desktop/c#/obj/Debug/net5.0/c#.AssemblyInfoInputs.cache
+/home/sindara/Desktop/c#/obj/Debug/net5.0/c#.AssemblyInfo.cs
+/home/sindara/Desktop/c#/obj/Debug/net5.0/c#.csproj.CoreCompileInputs.cache
+/home/sindara/Desktop/c#/obj/Debug/net5.0/c#.dll
+/home/sindara/Desktop/c#/obj/Debug/net5.0/ref/c#.dll
+/home/sindara/Desktop/c#/obj/Debug/net5.0/c#.pdb
+/home/sindara/Desktop/c#/obj/Debug/net5.0/c#.genruntimeconfig.cache
