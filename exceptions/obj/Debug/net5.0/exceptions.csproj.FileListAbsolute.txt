@@ -1,0 +1,16 @@
+/home/sindara/Desktop/c#/exceptions/bin/Debug/net5.0/exceptions
+/home/sindara/Desktop/c#/exceptions/bin/Debug/net5.0/exceptions.deps.json
+/home/sindara/Desktop/c#/exceptions/bin/Debug/net5.0/exceptions.runtimeconfig.json
+/home/sindara/Desktop/c#/exceptions/bin/Debug/net5.0/exceptions.runtimeconfig.dev.json
+/home/sindara/Desktop/c#/exceptions/bin/Debug/net5.0/exceptions.dll
+/home/sindara/Desktop/c#/exceptions/bin/Debug/net5.0/ref/exceptions.dll
+/home/sindara/Desktop/c#/exceptions/bin/Debug/net5.0/exceptions.pdb
+/home/sindara/Desktop/c#/exceptions/obj/Debug/net5.0/exceptions.csproj.AssemblyReference.cache
+/home/sindara/Desktop/c#/exceptions/obj/Debug/net5.0/exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/sindara/Desktop/c#/exceptions/obj/Debug/net5.0/exceptions.AssemblyInfoInputs.cache
+/home/sindara/Desktop/c#/exceptions/obj/Debug/net5.0/exceptions.AssemblyInfo.cs
+/home/sindara/Desktop/c#/exceptions/obj/Debug/net5.0/exceptions.csproj.CoreCompileInputs.cache
+/home/sindara/Desktop/c#/exceptions/obj/Debug/net5.0/exceptions.dll
+/home/sindara/Desktop/c#/exceptions/obj/Debug/net5.0/ref/exceptions.dll
+/home/sindara/Desktop/c#/exceptions/obj/Debug/net5.0/exceptions.pdb
+/home/sindara/Desktop/c#/exceptions/obj/Debug/net5.0/exceptions.genruntimeconfig.cache
