@@ -1,0 +1,16 @@
+/home/sindara/Desktop/c#/arrays/bin/Debug/net5.0/arrays
+/home/sindara/Desktop/c#/arrays/bin/Debug/net5.0/arrays.deps.json
+/home/sindara/Desktop/c#/arrays/bin/Debug/net5.0/arrays.runtimeconfig.json
+/home/sindara/Desktop/c#/arrays/bin/Debug/net5.0/arrays.runtimeconfig.dev.json
+/home/sindara/Desktop/c#/arrays/bin/Debug/net5.0/arrays.dll
+/home/sindara/Desktop/c#/arrays/bin/Debug/net5.0/ref/arrays.dll
+/home/sindara/Desktop/c#/arrays/bin/Debug/net5.0/arrays.pdb
+/home/sindara/Desktop/c#/arrays/obj/Debug/net5.0/arrays.csproj.AssemblyReference.cache
+/home/sindara/Desktop/c#/arrays/obj/Debug/net5.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/sindara/Desktop/c#/arrays/obj/Debug/net5.0/arrays.AssemblyInfoInputs.cache
+/home/sindara/Desktop/c#/arrays/obj/Debug/net5.0/arrays.AssemblyInfo.cs
+/home/sindara/Desktop/c#/arrays/obj/Debug/net5.0/arrays.csproj.CoreCompileInputs.cache
+/home/sindara/Desktop/c#/arrays/obj/Debug/net5.0/arrays.dll
+/home/sindara/Desktop/c#/arrays/obj/Debug/net5.0/ref/arrays.dll
+/home/sindara/Desktop/c#/arrays/obj/Debug/net5.0/arrays.pdb
+/home/sindara/Desktop/c#/arrays/obj/Debug/net5.0/arrays.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/sindara/.dotnet/store/|arch|/|tfm|",
+      "/home/sindara/.nuget/packages"
+    ]
+  }
+}
