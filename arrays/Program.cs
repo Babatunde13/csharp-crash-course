@@ -19,6 +19,17 @@ namespace arrays
             friends[3] = "400";
             friends[4] = "500";
             Console.WriteLine(friends);
+            Console.WriteLine(numbrGrid());
+        }
+        
+        static int[,] numbrGrid () {
+            int [,] array = {
+                {1, 2, 3, 4},
+                {5, 6, 7, 8},
+                {9, 10, 11, 12}
+            };
+            int [,] unknownArray = new int [2, 3];
+            return array;
         }
     }
 }
