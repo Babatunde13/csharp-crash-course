@@ -1,0 +1,16 @@
+/home/sindara/Desktop/c#/guessinggame/bin/Debug/net5.0/guessinggame
+/home/sindara/Desktop/c#/guessinggame/bin/Debug/net5.0/guessinggame.deps.json
+/home/sindara/Desktop/c#/guessinggame/bin/Debug/net5.0/guessinggame.runtimeconfig.json
+/home/sindara/Desktop/c#/guessinggame/bin/Debug/net5.0/guessinggame.runtimeconfig.dev.json
+/home/sindara/Desktop/c#/guessinggame/bin/Debug/net5.0/guessinggame.dll
+/home/sindara/Desktop/c#/guessinggame/bin/Debug/net5.0/ref/guessinggame.dll
+/home/sindara/Desktop/c#/guessinggame/bin/Debug/net5.0/guessinggame.pdb
+/home/sindara/Desktop/c#/guessinggame/obj/Debug/net5.0/guessinggame.csproj.AssemblyReference.cache
+/home/sindara/Desktop/c#/guessinggame/obj/Debug/net5.0/guessinggame.GeneratedMSBuildEditorConfig.editorconfig
+/home/sindara/Desktop/c#/guessinggame/obj/Debug/net5.0/guessinggame.AssemblyInfoInputs.cache
+/home/sindara/Desktop/c#/guessinggame/obj/Debug/net5.0/guessinggame.AssemblyInfo.cs
+/home/sindara/Desktop/c#/guessinggame/obj/Debug/net5.0/guessinggame.csproj.CoreCompileInputs.cache
+/home/sindara/Desktop/c#/guessinggame/obj/Debug/net5.0/guessinggame.dll
+/home/sindara/Desktop/c#/guessinggame/obj/Debug/net5.0/ref/guessinggame.dll
+/home/sindara/Desktop/c#/guessinggame/obj/Debug/net5.0/guessinggame.pdb
+/home/sindara/Desktop/c#/guessinggame/obj/Debug/net5.0/guessinggame.genruntimeconfig.cache
