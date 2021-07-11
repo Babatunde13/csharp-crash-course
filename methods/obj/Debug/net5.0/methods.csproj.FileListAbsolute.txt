@@ -1,0 +1,16 @@
+/home/sindara/Desktop/c#/methods/obj/Debug/net5.0/methods.csproj.AssemblyReference.cache
+/home/sindara/Desktop/c#/methods/obj/Debug/net5.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/sindara/Desktop/c#/methods/obj/Debug/net5.0/methods.AssemblyInfoInputs.cache
+/home/sindara/Desktop/c#/methods/obj/Debug/net5.0/methods.AssemblyInfo.cs
+/home/sindara/Desktop/c#/methods/obj/Debug/net5.0/methods.csproj.CoreCompileInputs.cache
+/home/sindara/Desktop/c#/methods/bin/Debug/net5.0/methods
+/home/sindara/Desktop/c#/methods/bin/Debug/net5.0/methods.deps.json
+/home/sindara/Desktop/c#/methods/bin/Debug/net5.0/methods.runtimeconfig.json
+/home/sindara/Desktop/c#/methods/bin/Debug/net5.0/methods.runtimeconfig.dev.json
+/home/sindara/Desktop/c#/methods/bin/Debug/net5.0/methods.dll
+/home/sindara/Desktop/c#/methods/bin/Debug/net5.0/ref/methods.dll
+/home/sindara/Desktop/c#/methods/bin/Debug/net5.0/methods.pdb
+/home/sindara/Desktop/c#/methods/obj/Debug/net5.0/methods.dll
+/home/sindara/Desktop/c#/methods/obj/Debug/net5.0/ref/methods.dll
+/home/sindara/Desktop/c#/methods/obj/Debug/net5.0/methods.pdb
+/home/sindara/Desktop/c#/methods/obj/Debug/net5.0/methods.genruntimeconfig.cache
