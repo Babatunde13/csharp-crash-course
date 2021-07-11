@@ -1,0 +1,16 @@
+/home/sindara/Desktop/c#/loops/bin/Debug/net5.0/loops
+/home/sindara/Desktop/c#/loops/bin/Debug/net5.0/loops.deps.json
+/home/sindara/Desktop/c#/loops/bin/Debug/net5.0/loops.runtimeconfig.json
+/home/sindara/Desktop/c#/loops/bin/Debug/net5.0/loops.runtimeconfig.dev.json
+/home/sindara/Desktop/c#/loops/bin/Debug/net5.0/loops.dll
+/home/sindara/Desktop/c#/loops/bin/Debug/net5.0/ref/loops.dll
+/home/sindara/Desktop/c#/loops/bin/Debug/net5.0/loops.pdb
+/home/sindara/Desktop/c#/loops/obj/Debug/net5.0/loops.csproj.AssemblyReference.cache
+/home/sindara/Desktop/c#/loops/obj/Debug/net5.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/sindara/Desktop/c#/loops/obj/Debug/net5.0/loops.AssemblyInfoInputs.cache
+/home/sindara/Desktop/c#/loops/obj/Debug/net5.0/loops.AssemblyInfo.cs
+/home/sindara/Desktop/c#/loops/obj/Debug/net5.0/loops.csproj.CoreCompileInputs.cache
+/home/sindara/Desktop/c#/loops/obj/Debug/net5.0/loops.dll
+/home/sindara/Desktop/c#/loops/obj/Debug/net5.0/ref/loops.dll
+/home/sindara/Desktop/c#/loops/obj/Debug/net5.0/loops.pdb
+/home/sindara/Desktop/c#/loops/obj/Debug/net5.0/loops.genruntimeconfig.cache
